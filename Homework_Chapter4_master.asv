@@ -132,7 +132,5 @@ end
 % Modify the code to find out whether the height difference between men and women would be significant 
 % with 10 individuals, 20, 100. (in matlab the command is ttest).
 
-% in a group of 100 individuals, of whom 50 were male, 50 female. 
-% How many of the 50 tallest people would be female?
-
+% in a group of 100 individuals, of whom 50 were male, 50 female. How many of the 50 tallest people would be  
  	 
