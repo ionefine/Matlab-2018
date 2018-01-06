@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 %% Homework Chapter2 
 
 % Questions for Chapter 2 
 % DUE XXX
+=======
+% Homework_Chapter2_master
+
+%Questions for Chapter 2 – Instructor version
+%DUE XXX
 
 % Make sure you do these in an m-file and not the command line since many of the questions build upon the answers to earlier questions.
 % your version of this m-file should be uploaded to your github account.
@@ -18,6 +24,7 @@
  
 %% Q 2.2: More replacing letters in strings.
 %Starting with the string:
+
 str = 'nosey little cook';
 
 % a) Create a vector called id1 so that when you type:
