@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-%% Homework Chapter2 
-
-% Questions for Chapter 2 
-% DUE XXX
-=======
-% Homework_Chapter2_master
+%% Homework_Chapter2_master
 
 %Questions for Chapter 2 – Instructor version
 %DUE XXX
