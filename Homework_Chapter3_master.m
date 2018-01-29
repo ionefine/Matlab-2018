@@ -15,7 +15,7 @@ mat=[ 3 4 5 ; 6 7 8; 9 10 11];
 
 % b) Calculate the mean of the even numbers of vect.
 
-%% Q 3.7: Inner and Outer Products
+%% Q 3.3: Inner and Outer Products
 
 % You are examining generosity behavior in 12 three year olds. 
 % The number of times each child is observed to engage in a sharing behaviour 
