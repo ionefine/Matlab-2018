@@ -1,7 +1,7 @@
 %% Questions for Chapter 5
  
 
-% see the word documet Exercises for chapter 5 for the images
+% see the word document Exercises for chapter 5 for the images
 %% Q 5.1 Images of matrices
 
 % a) Use a nested for loop to create a matrix M that looks like this:
@@ -81,17 +81,4 @@ colormap(cmapT)
   
 %IMAGE3.3
 
-%% Q 5.4 Altering the rat random walk model 
-
-%  Alter the tightrope walker model to do the following
-
-% a) She makes the steps more quickly. (See Hints if you get stuck.)
- 
-% b) She alternates between walking frontward and backward on the tightrope
- 
-% c) When she takes a step forward  the image is green and when whs goes backward the image is green. (See Hints if you get stuck.)
- 
-% The following image incorporates all these changes.
-
-% IMAGE5.4
  

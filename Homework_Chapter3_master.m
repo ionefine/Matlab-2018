@@ -37,6 +37,7 @@ w = ones(12,1)./12;
 % Show that the inner product of w and num_shares is the same as av_shares. 
 % Try to use words to explain why. 
 
+
 % d) Use pointwise division to get the probability of sharing on a given peer 
 % interaction for each child (prob_share) 
 
