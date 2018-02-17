@@ -29,7 +29,7 @@ end
 
 %% Miguel
 
-% if you get rid of the last data point you could reshape your data ....
+% if you get rid of the last data point (which is fine with me) you could reshape your data ....
 
 
 
