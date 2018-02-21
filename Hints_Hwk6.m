@@ -18,3 +18,10 @@ F=mod(atan2(X, Y), pi/4);
 imagesc(F); colormap(gray(256))
 
 
+matbig=ones(100, 80);
+mat=1+ones(80);
+matbig(1:80,1:40)=mat(:, 1:40);
+matbig(21:end,41:end)=mat(:, 41:end);
+
+
+
